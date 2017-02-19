@@ -28,7 +28,7 @@ If one wants to use the second variation which does not involve docker, one has
 to pass the environmental variable `DOCKERIZE` to `rake`, i.e. use something
 like
 ```
-DOCKERIZE=false rake command
+DOCKERIZE=false rake <command>
 ```
 
 **2)** The other way also uses the above mentioned tools but encapsulates all of that
