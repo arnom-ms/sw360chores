@@ -10,7 +10,7 @@ All packages are placed in the folder `_output`.
 
 # How to use
 The used versions of the components are configured in the file
-`build_configuration.rb`.
+`build_configuration.rb`. It is assumed that maven as well as the openjdk-8-jdk is already installed on the system (sudo apt install maven, sudo apt-get install openjdk-8-jdk).
 
 There are two ways to use the packaging scripts in this folder.
 
